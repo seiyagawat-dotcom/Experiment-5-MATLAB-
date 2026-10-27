@@ -1,8 +1,8 @@
 %% ECE 2112: Advanced Computer Programming and Algorithms
 % EXPERIMENT 5: INTRODUCTION TO MATLAB PROGRAMMING
-% Name: [Your Surname, First Name M.I.]
-% Section: 2ECE-[Your Section]
-% Date Submitted: [Date]
+% Name: Gawat, Seiya A.
+% Section: 2ECE-A
+% Date Submitted: October 27, 2026
 
 clc;
 clear;
